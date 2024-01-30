@@ -1,0 +1,34 @@
+@font-face {
+    font-family: acorn-thin;
+    src: url(/assets/fonts/Acorn/Acorn-Thin.ttf);
+}
+
+@font-face {
+    font-family: acorn-elight;
+    src: url(/assets/fonts/Acorn/Acorn-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: acorn-light;
+    src: url(/assets/fonts/Acorn/Acorn-Light.ttf);
+}
+
+@font-face {
+    font-family: acorn-reg;
+    src: url(/assets/fonts/Acorn/Acorn-Regular.ttf);
+}
+
+@font-face {
+    font-family: acorn-med;
+    src: url(/assets/fonts/Acorn/Acorn-Medium.ttf);
+}
+
+@font-face {
+    font-family: acorn-semib;
+    src: url(/assets/fonts/Acorn/Acorn-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: acorn-bold;
+    src: url(/assets/fonts/Acorn/Acorn-Bold.ttf);
+}
